@@ -46,14 +46,14 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/ncruces/go-sqlite3 v0.19.0
 	github.com/oklog/ulid v1.3.1
-	github.com/prometheus/client_golang v1.20.4
+	github.com/prometheus/client_golang v1.20.5
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.9.0
 	github.com/superseriousbusiness/activity v1.9.0-gts
 	github.com/superseriousbusiness/httpsig v1.2.0-SSB
 	github.com/superseriousbusiness/oauth2/v4 v4.3.2-SSB.0.20230227143000-f4900831d6c8
-	github.com/tdewolff/minify/v2 v2.20.37
+	github.com/tdewolff/minify/v2 v2.21.0
 	github.com/technologize/otel-go-contrib v1.1.1
 	github.com/tetratelabs/wazero v1.8.1
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
@@ -63,7 +63,7 @@ require (
 	github.com/uptrace/bun/dialect/sqlitedialect v1.2.1
 	github.com/uptrace/bun/extra/bunotel v1.2.1
 	github.com/wagslane/go-password-validator v0.3.0
-	github.com/yuin/goldmark v1.7.6
+	github.com/yuin/goldmark v1.7.8
 	go.opentelemetry.io/otel v1.29.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.29.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.29.0
@@ -197,7 +197,7 @@ require (
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/superseriousbusiness/go-jpeg-image-structure/v2 v2.0.0-20220321154430-d89a106fdabe // indirect
 	github.com/superseriousbusiness/go-png-image-structure/v2 v2.0.1-SSB // indirect
-	github.com/tdewolff/parse/v2 v2.7.15 // indirect
+	github.com/tdewolff/parse/v2 v2.7.17 // indirect
 	github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc // indirect
 	github.com/toqueteos/webbrowser v1.2.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
